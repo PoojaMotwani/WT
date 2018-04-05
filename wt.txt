@@ -297,10 +297,8 @@ contact.html-
   
   </marquee></div>
 <h1>GROUP MEMBERS:</h1>
-<h2>1]Shubham Chavan(TECOA121)<br>
-	2]Ashitosh Dhapate(TECOA130)<br>
-	3]Snehal Chaudhari(TECOA120)<br>
-	4]Shreya Diwate(TECOA134)</h2>
+<h2>1]Pooja Motwani(TECOB229)<br>
+	
 
 </body>
 </html>
